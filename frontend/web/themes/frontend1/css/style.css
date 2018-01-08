@@ -1,0 +1,208 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.navbar {
+    background-color: #33b5e5;
+    color: #ffffff;
+}
+
+.center{
+  margin-right:auto;
+  margin-left:auto;
+  width: 80%;
+}
+
+.img-atas {
+  margin: 0;
+  background-color: #33b5e5;
+}
+
+.footer {
+    position:absolute;
+    width:100%;
+}
+
+/* Yii2.ThemeFactory.net */
+.jumbotron {
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.padding-kanan-kiri {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.padding-content {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.button-size {
+    background-color: #ADABAB;
+    color:#5A5A5A;
+    border: 1px solid #ADABAB;
+    padding: 8px;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: bold;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.img-shadow {
+    padding-top : 0px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 13px;
+    border: 1px solid #ADABAB;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.shadow {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.menu-model {
+    padding-top : 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #7E7B7B; 
+    background-color: transparent;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: bold;
+}
+
+.image-size {
+    height: 200px;
+    width:200px;
+}
+
+.brand,
+.address-bar {
+    display: none;
+}
+
+.button-shadow {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.padding-center {
+    padding-top: 60px;
+    padding-left: 330px;
+}
+
+.panel-default > .panel-heading {
+    background-color: #33b5e5;
+    color: #ffffff;
+    border-color: #33b5e5;
+}
+
+.ukuran-view {
+    width:450px;
+}
+
+.ukuran-peta {
+    width:510px;
+    margin: 0;
+}
+
+.ukuran-slide {
+    width:1370px;
+    height: 150px;
+    margin: 0;
+}
+
+.padding-login {
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+
+.padding-hotel {
+    padding-top: 20px;
+}
+
+.view1 { margin-bottom:10px;
+                 margin-right:50px;
+                 margin-left:80px;
+                 width:450px;
+                 float:left;
+                 clear:both;
+}
+
+.view3 { margin-bottom:0px;
+                 margin-right:50px;
+                 margin-left:80px;
+                 width:450px;
+                 float:left;
+                 clear:both;
+}
+
+.view2 { margin-bottom:10px;
+                 margin-right:50px;
+                 margin-left:350px;
+                 width:450px;
+                 float:left;
+                 clear:both;
+}
+
+.peta1 {  margin-bottom:10px;
+                  margin-right:20px;
+                  margin-left:590px;
+                  margin-top:-513px;
+                  width: 520px;
+                  float:left;
+                  clear:both;
+} 
+
+.peta2 {  margin-bottom:10px;
+                  margin-right:20px;
+                  margin-left:590px;
+                  margin-top:-514px;
+                  width: 520px;
+                  float:left;
+                  clear:both;
+}
+
+.peta3 {  margin-bottom:10px;
+                  margin-right:20px;
+                  margin-left:590px;
+                  margin-top:-514px;
+                  width: 520px;
+                  height: 500px;
+                  float:left;
+                  clear:both;
+} 
+
+.detail1 {  margin-bottom:0px;
+                  margin-right:20px;
+                  margin-left: 10px;
+                  margin-top:-0px;
+                  width: 520px;
+                  float:left;
+                  clear:both;
+} 
+
+.detail2 {  margin-bottom:-200px;
+                  margin-right:20px;
+                  margin-left: 150px;
+                  margin-top:-284px;
+                  width: 520px;
+                  float:left;
+                  clear:both;
+} 
+
